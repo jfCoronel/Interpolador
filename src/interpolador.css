@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+
+}
+
+.contenido {
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 960px;
+}
+
+.pie{
+  text-align: center;
+}
+
+.casilla{
+  padding-right: 10px;
+}
