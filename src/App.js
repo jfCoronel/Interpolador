@@ -12,7 +12,6 @@ function App() {
     <div className="contenido">
       <h1> <LineChartOutlined /> Interpolador</h1>
 
-
       <Row>
         <Col span={12}>
           <InputNumber 
