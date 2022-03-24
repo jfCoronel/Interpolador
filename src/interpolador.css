@@ -9,6 +9,10 @@ body {
   width: 960px;
 }
 
+.titulo {
+  text-align: center;
+}
+
 .pie{
   text-align: center;
 }
